@@ -1,6 +1,6 @@
 👋 Hi, I’m Baibhab Ghosh (@MonGeR-B)
 
-🎯 Aspiring Python Developer / AI Engineer | Building real-world projects in Python, AI/ML, and React
+🎯 Python Developer / AI Engineer | Building real-world projects in Python, AI/ML, and React
 
 ⸻
 
