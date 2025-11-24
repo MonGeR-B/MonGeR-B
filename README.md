@@ -41,7 +41,7 @@
 
 📬 Connect With Me
 	•	📧 Email: baibhabghosh2003@gmail.com
-	•	💼 LinkedIn: linkedin.com/in/baibhab-ghosh (update with your actual link)
+	•	💼 LinkedIn: linkedin.com/in/baibhab-ghosh
 	•	🖥️ GitHub: github.com/MonGeR-B
 
 ⸻
