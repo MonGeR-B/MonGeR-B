@@ -1,6 +1,6 @@
 👋 Hi, I’m Baibhab Ghosh (@MonGeR-B)
 
-🎯 Python Developer / AI Engineer | Building real-world projects in Python, AI/ML, and React
+🎯 Python Developer / AI Developer @Monk-Mantra | Building real-world projects in AI/ML, and Full-Stack
 
 ⸻
 
@@ -8,11 +8,11 @@
 	•	🐍 Core expertise in Python with focus on AI/ML, LangChain, FastAPI, and backend development
 	•	⚛️ Experience with React for frontend projects and hybrid roles
 	•	🧩 Interested in AI-powered applications, multi-agent systems, and automation
-	•	🌱 Currently working on projects like:
-	•	Multi-Agent Game Tester (LangChain + FastAPI + Playwright + Streamlit)
-	•	Book Recommender System (HuggingFace + Streamlit)
-	•	AIR-Sell (AI-powered resume builder with NLP automation)
 	•	💡 Passionate about AI in gaming, smart city systems, and developer tools
+	•	🌱 Currently working on projects like -		•	Multi-Agent Game Tester (LangChain + FastAPI + Playwright + Streamlit)
+													•	Book Recommender System (HuggingFace + Streamlit)
+													•	AIR-Sell (AI-powered resume builder with NLP automation)
+
 
 ⸻
 
@@ -25,7 +25,7 @@
 
 🛠️ Tech Stack
 	•	Languages: Python, JavaScript (React)
-	•	Frameworks: FastAPI, Flask, Django (learning)
+	•	Frameworks: FastAPI, Flask, Django
 	•	AI/ML Tools: LangChain, HuggingFace, Transformers, OpenAI APIs
 	•	Frontend/UI: React, Streamlit, Tkinter (basic)
 	•	Other Tools: Playwright, Git/GitHub, VSCode
@@ -33,7 +33,6 @@
 ⸻
 
 📈 Goals
-	•	🔥 Secure a Python Developer / AI Engineer role (7 LPA target) in Bangalore
 	•	🚀 Contribute to AI-first startups solving real-world challenges
 	•	🎮 Explore AI in gaming & smart city automation
 
